@@ -15,3 +15,5 @@
 [Успешная отправка заявки](https://github.com/netology-code/aqa-homeworks/raw/master/web/pic/success.jpg)
 
 Вам необходимо самостоятельно изучить элементы на странице, чтобы подобрать правильные селекторы.
+
+[![Java CI with Gradle](https://github.com/SergeyAbrosimov-87/WebTest/actions/workflows/gradle.yml/badge.svg)](https://github.com/SergeyAbrosimov-87/WebTest/actions/workflows/gradle.yml)
